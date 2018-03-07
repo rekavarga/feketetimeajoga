@@ -28,6 +28,9 @@
 #pricing-table1-m .btn {
   font-size: 25px;
 }
+#pricing-table1-m SMALL {
+  font-size: 20px;
+}
 #buttons1-o .btn {
   font-size: 24px;
 }
@@ -50,5 +53,11 @@
   text-align: left;
 }
 #contacts2-p STRONG {
+  font-size: 22px;
+}
+#ext_menu-w .navbar-toggler {
+  color: #000;
+}
+#contacts2-x STRONG {
   font-size: 22px;
 }

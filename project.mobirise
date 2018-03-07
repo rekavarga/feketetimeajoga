@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 38,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@"
   },
@@ -64,9 +64,9 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fekete Tímea jóga</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Online Videók</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Rólam</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Óra</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Workshop</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Tábor</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Kapcsolat</a></li>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fekete Tímea jóga</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#video2-b\">Online Videók</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#video1-z\">Rólam</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Óra</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Workshop</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Tábor</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-p\">Kapcsolat</a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
@@ -92,7 +92,7 @@
                 "title": "ÓRÁK",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tovább</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-m\" data-toolbar=\"-mbrBtnMove\">Tovább</a> ",
                 "overlay": false
               },
               {
@@ -104,7 +104,7 @@
                 "title": "WORKSHOPOK",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tovább</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-m\" data-toolbar=\"-mbrBtnMove\">Tovább</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
@@ -115,7 +115,7 @@
                 "title": "TÁBOROK",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tovább</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-m\" data-toolbar=\"-mbrBtnMove\">Tovább</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
@@ -126,7 +126,7 @@
                 "title": "VIDEÓK",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Megnézem</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#video2-b\" data-toolbar=\"-mbrBtnMove\">Megnézem</a> ",
                 "overlay": false
               }
             ]
@@ -214,7 +214,7 @@
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Összes videó</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-m\" data-toolbar=\"-mbrBtnMove\">Összes videó</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -291,20 +291,20 @@
           "currency4": "",
           "price1": "Csipőnyitás mesterfokon",
           "price2": "",
-          "price3": "0",
-          "price4": "0",
+          "price3": "",
+          "price4": "",
           "period1": "",
           "period2": "",
-          "period3": "Leírás",
-          "period4": "Leírás",
+          "period3": "Személyes órák heti rendszerességgel",
+          "period4": "Otthoni gyakorlatsorok",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Budapest</b></li><li class=\"list-group-item\"><b>2018.03.20.</b></li><li class=\"list-group-item\"><b>Tanulj meg ellazulni</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Mátraszentistván</b></li><li class=\"list-group-item\"><b>2018.04.05.</b></li><li class=\"list-group-item\"><b>Töltődj fel Velünk</b></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Hol</b></li><li class=\"list-group-item\"><b>Mikor</b></li><li class=\"list-group-item\"><b>egyéb (ár)</b></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Hol</b></li><li class=\"list-group-item\"><b>Mikor</b></li><li class=\"list-group-item\"><b>egyéb (ár)</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Regisztrálok</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Részletek</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Jelentkezem</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Megnézem</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Budapest</b></li><li class=\"list-group-item\"><b>hetente</b></li><li class=\"list-group-item\"><b>Fejlődj</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><br></li><li class=\"list-group-item\"><b>youtube.com</b></li><li class=\"list-group-item\"><b>Gyakorolj</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#buttons1-o\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Regisztrálok</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#buttons1-o\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Részletek</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#buttons1-o\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Jelentkezem</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#pricing-table1-m\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Megnézem</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -319,11 +319,14 @@
             },
             ".btn": {
               "font-size": "25px"
+            },
+            "SMALL": {
+              "font-size": "20px"
             }
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>Összes esemény</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#buttons1-o\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>Összes esemény</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -376,7 +379,7 @@
           "title": "Számomra a jóga",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>&nbsp;egy olyan Út, ahol nem a cél, vagy a megérkezés a fontos.Talán nincs is igazi megérkezés. Csak az \"utazás\" számít. Egyszerre tanít elfogadásra és lassulásra.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Rólam</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"page1.html#video1-z\" data-toolbar=\"-mbrBtnMove\">Rólam</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -404,19 +407,19 @@
           "header": "Kezdj bele a gyakorlásba még ma!",
           "items": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
+              "authorName": "Ashley",
+              "authorBio": "",
+              "text": "<em>“really very amazing teacher. thanks again for your nice yoga class”</em>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+              "authorName": "Amanda",
+              "authorBio": "",
+              "text": "<em>“expecting the new series of the yoga videos. they are really relaxing”</em>"
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+              "authorName": "Thomas",
+              "authorBio": "",
+              "text": "<em>“at first time it was difficult for me doing yoga. Timi is the best teacher ever for me.”</em>"
             }
           ],
           "alias": "purity/components",
@@ -457,7 +460,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Jógázz Velem élőben! Kövess online!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/feketetimeajoga/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -473,7 +476,7 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -503,6 +506,135 @@
               "font-size": "22px"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Rólam",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "user2",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fekete Tímea jóga</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#video2-b\">Online Videók</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#video1-z\">Rólam</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Óra</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Workshop</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-m\">Tábor</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-p\">Kapcsolat</a></li>",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-w"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=4OjqkDghPGg&t=1129s",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-z"
+        },
+        {
+          "text": "<p>A célom, a mottóm, a jóga jelentése számomra<br>I have been practicing yoga for 6 years. I have been studying viniyoga with Gary       Kraftsow in Maui, HI for the past 3-4 years. I'm in the middle of a 4-6 year yoga teacher/yoga therapy program.<br>I got started taking classes from Baron Baptiste when he was teaching in Philadelphia. From there I met Gary Kraftsow and began studying with him.<br>I teach Viniyoga.<br>Yoga has made changes for me both on the inside and on the outside, hopefully for the better.<br>Yoga can both be an alternative and complementary form of medicine/healing. Therapeutically, yoga has had tremendous results dealing with MS, diabetes, constipation, insomnia, PMS, back pain, depression, anxiety, etc.<br><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Vissza</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Újpest",
+              "placeId": "ChIJsRQRDhraQUcRkyFqXrpJK6M",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Fekete Tímea jógaoktató</strong><br>\nBudapest<br><br>\n<strong>Kapcsolat</strong><br>\nEmail: timi@pelda.com<br>\nTelefon: +3630444111<br><br>",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "contacts2-x"
         }
       ]
     }
