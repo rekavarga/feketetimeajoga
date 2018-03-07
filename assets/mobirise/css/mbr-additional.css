@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#slider-g H2 {
+  color: #ffffff;
+}
+#msg-box1-i H2 {
+  text-align: center;
+  color: #ffffff;
+}
+#video2-b DIV {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#msg-box1-n H2 {
+  color: #ffffff;
+  text-align: right;
+}
+#pricing-table1-m DIV {
+  font-size: 20px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#pricing-table1-m .btn {
+  font-size: 25px;
+}
+#buttons1-o .btn {
+  font-size: 24px;
+}
+#msg-box3-v .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-v .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-v .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box3-v .lead P {
+  color: #ffffff;
+  text-align: left;
+}
+#social-buttons2-u .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+#contacts2-p STRONG {
+  font-size: 22px;
+}
