@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "timijoga",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1169,7 +1169,7 @@
                 "title": "Bevezetés az Ashtangába",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Kedvcsináló szöveg, időpont, leírás. Bővebb információ a tovább gombra kattintva érhető el..&nbsp;",
+                "text": "Figyelemfelkeltő szöveg, időpont, helyszín. Bővebb információ a tovább gombra kattintva érhető el..&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-secondary display-4\" href=\"page2.html#header3-1a\" data-toolbar=\"-mbrBtnMove\">TOVÁBB</a> "
               },
               {
@@ -1186,7 +1186,7 @@
                 "title": "Csípőnyitó workshop",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "2018.04.25- én újra! Leírás, kedvcsináló szöveg. Bővebb info a tovább gobra kattintva.",
+                "text": "2018.04.25- én újra! Kedvcsináló szöveg, időpont, helyszín. Bővebb info a tovább gobra kattintva.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"page2.html#header3-18\" data-toolbar=\"-mbrBtnMove\">TOVÁBB</a> "
               }
             ]
